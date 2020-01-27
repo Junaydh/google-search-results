@@ -1,0 +1,139 @@
+#container {
+	width: 960px;
+	font-family: arial;
+}
+
+#container a {
+	text-decoration: none;
+}
+
+#container ul, li {
+	padding-inline-start: 0px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+#header {
+	min-width: 960px
+}
+
+#logo {
+	display: inline-block;
+	margin: 20px 40px 0 15px;
+}
+
+#logo img {
+	height: 30px;
+	width: auto;
+}
+
+#searchbar {
+	display: inline-block;
+	border: 1px solid #bfbfbf;
+	border-radius: 23px;
+}
+
+#searchbar input {
+	width: 550px;
+	margin: 10px 0 10px 15px;
+	border: none;
+	box-shadow: none;
+	outline: none;
+	font-size: 12pt;
+}
+
+#searchbar button {
+	outline: none;
+	background-color: transparent;
+	border:none;
+	color: blue;
+	cursor: pointer;
+}
+
+#account-info {
+	display: block;
+	float: right;
+	margin: 20px;
+}
+
+#nav-bar {
+	text-decoration: none;
+	margin: 15px 0 10px 145px;
+}
+
+#nav-bar a {
+	text-decoration: none;
+}
+
+#main-content {
+	margin-left: 166px
+}
+
+#searchstats {
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.address {
+	margin-bottom: 5px;
+	color: #4d4d4d;
+} 
+
+.main-link {
+	font-size: 20px;
+	margin-bottom: 8px;
+}
+
+#table1 {
+	margin-left: 25px;
+	margin-top: 20px;
+}
+
+#table1 h4 {
+	font-size: 18px;
+	margin-bottom: 10px;
+
+}
+
+#table1 p {
+	margin-bottom: 10px;
+	font-size: 16px
+}
+
+.more-results1 {
+	margin-left: 25px;
+}
+
+#result1, #result2, #result3, #result4, #result5, #result6, #result7 {
+	margin-bottom: 35px;
+}
+
+#table1, #table2, #table3 {
+	margin-top: 10px;
+	border-collapse: separate;
+	border-spacing: 10px
+}
+
+.more-results {
+	margin-top: 10px
+}
+
+#related-searches {
+	margin-bottom: 20px;
+}
+
+#related-searches h3 {
+	font-size: 20px;
+	margin-bottom:20px;
+}
+
+#pages {
+	text-align: center;
+	
+}
+
+#footer {
+	margin-left: 140px;
+	margin-top: 40px;
+
+}
